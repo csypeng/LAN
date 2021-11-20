@@ -1,2 +1,1 @@
-# LAN
-Learning-based Approximate k-NN Search in Graph Databases
+# LAN: Learning-based Approximate k-NN Search in Graph Databases
